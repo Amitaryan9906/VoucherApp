@@ -1,0 +1,11 @@
+
+form{
+    width:300px;
+    height: 400px;;
+    margin: auto;
+}
+form>input, form>button{
+width: 99%;
+height: 30px;;
+margin-top: 20px;
+}
